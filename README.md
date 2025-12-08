@@ -1,6 +1,6 @@
 # Mirrorwatch
 
-<img style="background: white;" src=doc/pie.svg alt="Share of package mirror operators in pie chart">
+<img src="doc/pie.webp" alt="Share of package mirror operators in pie chart">
 
 <img src="doc/aed3hc.webp" alt="Squidward: no Patrick, Cloudflare is not a package mirror">
 
