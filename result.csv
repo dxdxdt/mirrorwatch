@@ -1,0 +1,658 @@
+AM,mirrors.teamcloud.am,178.160.211.197,178.160.208.0/21,AS12297,Armenia Telephone Company
+AT,centos.anexia.at,2a00:11c0:48:b:144:208:213:156,2a00:11c0:48::/48,AS47147,ANX-INFRASTRUCTURE-PA
+AT,centos.anexia.at,144.208.213.156,144.208.213.0/24,AS42473,ANEXIA
+AT,mirror.alwyzon.net,46.102.157.26,46.102.157.0/24,AS40994,
+AT,mirror.alwyzon.net,2a0d:f302:99:0:e207:1bff:fe6a:e7b1,2a0d:f302::/32,AS40994,
+AT,mirror.digitalnova.at,85.126.154.4,85.126.0.0/15,AS8412,Magenta Telekom
+AT,mirror.nextlayer.at,2a01:190:1600:2300::117,2a01:190::/32,AS1764,AT-NEXTLAYER-20060807
+AT,mirror.nextlayer.at,213.208.154.150,213.208.154.0/24,AS62239,
+AU,ap.edge.kernel.org,147.75.48.161,147.75.48.0/24,AS54825,"Equinix Services, Inc."
+AU,ap.edge.kernel.org,2604:1380:40f1:3f00::1,2604:1380:40f0::/44,AS54825,"Equinix Services, Inc."
+AU,"melbourneitmirror.net, fedora.melbourneitmirror.net",2606:4700:3037::6815:593e,2606:4700:3037::/48,AS13335,"Cloudflare, Inc."
+AU,"melbourneitmirror.net, fedora.melbourneitmirror.net",172.67.156.225,172.67.144.0/20,AS13335,"Cloudflare, Inc."
+AU,"melbourneitmirror.net, fedora.melbourneitmirror.net",2606:4700:3032::ac43:9ce1,2606:4700:3032::/48,AS13335,"Cloudflare, Inc."
+AU,"melbourneitmirror.net, fedora.melbourneitmirror.net",104.21.89.62,104.21.80.0/20,AS13335,"Cloudflare, Inc."
+AU,"melbourneitmirror.net, fedora.melbourneitmirror.net",2606:4700:3037::6815:593e,2606:4700:3037::/48,AS13335,"Cloudflare, Inc."
+AU,"melbourneitmirror.net, fedora.melbourneitmirror.net",172.67.156.225,172.67.144.0/20,AS13335,"Cloudflare, Inc."
+AU,"melbourneitmirror.net, fedora.melbourneitmirror.net",2606:4700:3032::ac43:9ce1,2606:4700:3032::/48,AS13335,"Cloudflare, Inc."
+AU,"melbourneitmirror.net, fedora.melbourneitmirror.net",104.21.89.62,104.21.80.0/20,AS13335,"Cloudflare, Inc."
+AU,fedora.mirror.serversaustralia.com.au,27.50.85.11,27.50.85.0/24,AS45671,Servers Australia Pty. Ltd
+AU,ftp.iinet.net.au,150.101.135.3,150.101.135.0/24,AS135091,Proxy-registered route object
+AU,ftp.swin.edu.au,2001:388:6080:64::dc41:1cf,2001:388::/32,AS7575,AARNet
+AU,ftp.swin.edu.au,136.186.1.76,136.186.0.0/16,AS7575,Swinburne University
+AU,gsl-syd.mm.fcix.net,45.121.210.231,45.121.210.0/24,AS38220,Proxy route object registered by AS2764
+AU,gsl-syd.mm.fcix.net,2401:3bc0:b:3::231,2401:3bc0:b::/48,AS137409,Sydney - Dedi Clients
+AU,lchs.mm.fcix.net,2001:df1:b80:1::241:0,2001:df1:b80::/48,AS139466,LATROBE COMMUNITY HEALTH SERVICE LIMITED
+AU,lchs.mm.fcix.net,103.141.199.241,103.141.199.0/24,AS139466,LATROBE COMMUNITY HEALTH SERVICE LIMITED
+AU,mirror.aarnet.edu.au,202.158.214.106,202.158.214.0/23,AS7575,AARNet
+AU,mirror.aarnet.edu.au,2001:388:30bc:cafe::beef,2001:388::/32,AS7575,AARNet
+AU,syd.mirror.rackspace.com,119.9.32.73,119.9.0.0/18,AS12200,Rackspace
+AZ,mirror.ourhost.az,94.20.141.19,94.20.141.0/24,AS215148,DELTA-CC
+AZ,mirror.yer.az,62.212.239.34,62.212.239.0/24,AS29049,Delta Telecom IP Range
+BE,fedora.cu.be,194.50.97.16,194.50.97.0/24,AS39628,FirstLink Networks route object
+BE,mirrors.centos.behostings.net,193.138.101.173,193.138.101.0/24,AS6696,
+BE,"fedora.mirror-services.net, mirror-services.net",2a02:a03f:8b33:3d00::cafe,2a02:a000::/26,AS5432,BE-BELGACOM-20110525
+BE,"fedora.mirror-services.net, mirror-services.net",193.121.15.225,193.121.0.0/16,AS5432,Proximus-FIA
+BE,"fedora.mirror-services.net, mirror-services.net",2a02:a03f:8b33:3d00::cafe,2a02:a000::/26,AS5432,BE-BELGACOM-20110525
+BE,"fedora.mirror-services.net, mirror-services.net",193.121.15.225,193.121.0.0/16,AS5432,Proximus-FIA
+BE,mirror.unix-solutions.be,185.111.204.146,185.111.204.0/24,AS39923,Unix-Solutions Leuven
+BE,mirror.unix-solutions.be,2a04:6480:101::146,2a04:6480::/29,AS39923,Unix-Solutions V6 Leuven
+BG,epel.uni-sofia.bg,62.44.96.38,62.44.96.0/24,AS5421,St. Kliment Ohridski University of Sofia Research Network
+BG,epel.uni-sofia.bg,2001:67c:20d0::38,2001:67c:20d0::/48,AS5421,"Sofia University ""St. Kliment Ohrisdki"""
+BG,fedora.ipacct.com,195.85.215.167,195.85.215.0/24,AS31287,IPACCT Ltd.
+BG,fedora.ipacct.com,2a01:9e40::167,2a01:9e40::/32,AS31287,IPACCT Ltd.
+BG,mirror.host.ag,185.205.208.231,185.205.208.0/24,AS44901,
+BG,mirrors.neterra.net,2a00:1728:20::5,2a00:1728:20::/48,AS31490,
+BG,mirrors.neterra.net,87.121.121.5,87.121.121.0/24,AS31490,Netix Ltd. route object
+BG,mirrors.netix.net,87.121.121.4,87.121.121.0/24,AS31490,Netix Ltd. route object
+BG,mirrors.netix.net,2a00:1728:20::5,2a00:1728:20::/48,AS31490,
+BG,mirrors.uni-ruse.bg,91.210.88.42,91.210.88.0/22,AS48155,"University of Ruse ""Angel Kanchev"""
+BG,mirrors.uni-ruse.bg,2001:67c:220c::2a,2001:67c:220c::/48,AS48155,University of Rousse
+BG,mirror.telepoint.bg,2a01:8740:ffff:fffc::32,2a01:8740::/32,AS57344,Telehouse EAD
+BG,mirror.telepoint.bg,2a01:8740:ffff:fffc::31,2a01:8740::/32,AS57344,Telehouse EAD
+BG,mirror.telepoint.bg,78.128.80.70,78.128.80.0/24,AS31083,
+BG,mirror.telepoint.bg,78.128.80.69,78.128.80.0/24,AS31083,
+BR,"br.mirrors.cicku.me, br.dyi.ng",2606:4700:78::90:0:241,2606:4700:70::/44,AS13335,"Cloudflare, Inc."
+BR,"br.mirrors.cicku.me, br.dyi.ng",172.65.90.40,172.65.80.0/20,AS13335,"Cloudflare, Inc."
+BR,"br.mirrors.cicku.me, br.dyi.ng",172.65.90.41,172.65.80.0/20,AS13335,"Cloudflare, Inc."
+BR,"br.mirrors.cicku.me, br.dyi.ng",2606:4700:78::90:0:240,2606:4700:70::/44,AS13335,"Cloudflare, Inc."
+BR,"br.mirrors.cicku.me, br.dyi.ng",2606:4700:90:0:1e9c:6198:567e:46e9,2606:4700:90::/44,AS13335,"Cloudflare, Inc."
+BR,"br.mirrors.cicku.me, br.dyi.ng",172.65.184.192,172.65.176.0/20,AS13335,"Cloudflare, Inc."
+BR,fedora-alt.c3sl.ufpr.br,200.236.31.8,200.236.0.0/19,AS10881,Ponto de Presen=C3=A7a da RNP no Paran=C3=A1 (POP-PR)
+BR,fedora-alt.c3sl.ufpr.br,2801:82:80ff:8000::9,2801:82::/32,AS10881,Ponto de Presen=C3=A7a da RNP no Paran=C3=A1 (POP-PR)
+BR,fedora.c3sl.ufpr.br,200.236.31.8,200.236.0.0/19,AS10881,Ponto de Presen=C3=A7a da RNP no Paran=C3=A1 (POP-PR)
+BR,fedora.c3sl.ufpr.br,2801:82:80ff:8000::9,2801:82::/32,AS10881,Ponto de Presen=C3=A7a da RNP no Paran=C3=A1 (POP-PR)
+BY,ftp.byfly.by,2a02:2208:0:2b:ffff::71,2a02:2208::/32,AS6697,"RUE ""BELTELECOM"" IPV6 NETWORK"
+BY,ftp.byfly.by,82.209.230.71,82.209.192.0/18,AS6697,
+CA,"ca.mirrors.cicku.me, ca.dyi.ng",172.65.90.6,172.65.80.0/20,AS13335,"Cloudflare, Inc."
+CA,"ca.mirrors.cicku.me, ca.dyi.ng",2606:4700:78::90:0:40,2606:4700:70::/44,AS13335,"Cloudflare, Inc."
+CA,"ca.mirrors.cicku.me, ca.dyi.ng",2606:4700:78::90:0:41,2606:4700:70::/44,AS13335,"Cloudflare, Inc."
+CA,"ca.mirrors.cicku.me, ca.dyi.ng",172.65.90.5,172.65.80.0/20,AS13335,"Cloudflare, Inc."
+CA,"ca.mirrors.cicku.me, ca.dyi.ng",2606:4700:78::90:0:43,2606:4700:70::/44,AS13335,"Cloudflare, Inc."
+CA,"ca.mirrors.cicku.me, ca.dyi.ng",172.65.90.7,172.65.80.0/20,AS13335,"Cloudflare, Inc."
+CA,"ca.mirrors.cicku.me, ca.dyi.ng",2606:4700:78::90:0:42,2606:4700:70::/44,AS13335,"Cloudflare, Inc."
+CA,"ca.mirrors.cicku.me, ca.dyi.ng",172.65.90.4,172.65.80.0/20,AS13335,"Cloudflare, Inc."
+CA,"ca.mirrors.cicku.me, ca.dyi.ng",2606:4700:90:0:1e9c:6198:567e:46e9,2606:4700:90::/44,AS13335,"Cloudflare, Inc."
+CA,"ca.mirrors.cicku.me, ca.dyi.ng",172.65.184.192,172.65.176.0/20,AS13335,"Cloudflare, Inc."
+CA,"fedora.mirror.iweb.com, fedora-epel.mirror.iweb.com",2607:f748:203:1e::102,2607:f748::/32,AS32613,iWeb Technologies Inc.
+CA,"fedora.mirror.iweb.com, fedora-epel.mirror.iweb.com",198.50.127.68,198.50.96.0/19,AS32613,iWeb Technologies Inc.
+CA,"fedora.mirror.iweb.com, fedora-epel.mirror.iweb.com",2607:f748:203:1e::102,2607:f748::/32,AS32613,iWeb Technologies Inc.
+CA,"fedora.mirror.iweb.com, fedora-epel.mirror.iweb.com",198.50.127.68,198.50.96.0/19,AS32613,iWeb Technologies Inc.
+CA,lesnet.mm.fcix.net,2605:e200:d111:101::239,2605:e200::/32,AS18451,Les.net (1996) Inc
+CA,lesnet.mm.fcix.net,208.81.1.239,208.81.0.0/21,AS18451,VOI Networks LES.net Route
+CA,mirror.cpsc.ucalgary.ca,136.159.208.97,136.159.0.0/16,AS33091,University of Calgary (NET-UCALGARY)
+CA,mirror.csclub.uwaterloo.ca,2620:101:f000:4901:c5c:0:f:1055,2620:101:f000::/47,AS12093,200 University Avenue West
+CA,mirror.csclub.uwaterloo.ca,129.97.134.71,129.97.0.0/16,AS549,UWNet
+CA,mirror.dst.ca,208.89.84.55,208.89.84.0/23,AS33705,Digital Shape Technologies Inc.
+CA,mirror.its.dal.ca,192.75.96.254,192.75.96.0/24,AS8111,6225 University Avenue
+CA,mirror.xenyth.net,170.39.230.155,170.39.230.0/24,AS835,xenyth toronto
+CA,mirror.xenyth.net,2602:fd50:0:f::3,2602:fd50::/48,AS835,core toronto
+CA,muug.ca,208.81.1.244,208.81.0.0/21,AS18451,VOI Networks LES.net Route
+CA,muug.ca,2605:e200:3:4::244,2605:e200::/32,AS18451,Les.net (1996) Inc
+CA,216.211.30.218,216.211.30.218,216.211.0.0/17,AS32277,Tbaytel
+CA,yxeix.mm.fcix.net,23.128.92.156,23.128.92.0/24,AS11655,"502, 230 - 22nd St. E"
+CA,yxeix.mm.fcix.net,2602:f979:80:20::156,2602:f979::/40,AS11655,"502, 230 - 22nd St. E"
+CH,"linuxsoft.cern.ch, rsync-linuxsoft.cern.ch",2001:1458:d00:61::100:3d6,2001:1458::/32,AS513,CERN
+CH,"linuxsoft.cern.ch, rsync-linuxsoft.cern.ch",188.185.40.58,188.185.0.0/16,AS513,CERN-DATACENTRE
+CH,"linuxsoft.cern.ch, rsync-linuxsoft.cern.ch",2001:1458:d00:16::100:427,2001:1458::/32,AS513,CERN
+CH,"linuxsoft.cern.ch, rsync-linuxsoft.cern.ch",188.184.65.236,188.184.0.0/16,AS513,CERN-GPN2
+CH,"linuxsoft.cern.ch, rsync-linuxsoft.cern.ch",188.185.48.60,188.185.0.0/16,AS513,CERN-DATACENTRE
+CH,"linuxsoft.cern.ch, rsync-linuxsoft.cern.ch",188.184.79.9,188.184.0.0/16,AS513,CERN-GPN2
+CH,"linuxsoft.cern.ch, rsync-linuxsoft.cern.ch",137.138.54.24,137.138.0.0/16,AS513,CERN-LAN1
+CH,"linuxsoft.cern.ch, rsync-linuxsoft.cern.ch",2001:1458:d00:17::100:c5,2001:1458::/32,AS513,CERN
+CH,"linuxsoft.cern.ch, rsync-linuxsoft.cern.ch",2001:1458:201:a4::100:2dc,2001:1458::/32,AS513,CERN
+CH,"linuxsoft.cern.ch, rsync-linuxsoft.cern.ch",2001:1458:d00:17::100:24e,2001:1458::/32,AS513,CERN
+CH,"linuxsoft.cern.ch, rsync-linuxsoft.cern.ch",188.185.41.214,188.185.0.0/16,AS513,CERN-DATACENTRE
+CH,"linuxsoft.cern.ch, rsync-linuxsoft.cern.ch",2001:1458:d00:6f::100:42e,2001:1458::/32,AS513,CERN
+CH,"linuxsoft.cern.ch, rsync-linuxsoft.cern.ch",137.138.121.171,137.138.0.0/16,AS513,CERN-LAN1
+CH,"linuxsoft.cern.ch, rsync-linuxsoft.cern.ch",2001:1458:d00:24::100:635,2001:1458::/32,AS513,CERN
+CH,"linuxsoft.cern.ch, rsync-linuxsoft.cern.ch",2001:1458:d00:24::100:356,2001:1458::/32,AS513,CERN
+CH,"linuxsoft.cern.ch, rsync-linuxsoft.cern.ch",137.138.55.108,137.138.0.0/16,AS513,CERN-LAN1
+CH,"linuxsoft.cern.ch, rsync-linuxsoft.cern.ch",137.138.153.139,137.138.0.0/16,AS513,CERN-LAN1
+CH,"linuxsoft.cern.ch, rsync-linuxsoft.cern.ch",2001:1458:d00:13::100:b8,2001:1458::/32,AS513,CERN
+CH,"linuxsoft.cern.ch, rsync-linuxsoft.cern.ch",188.185.44.224,188.185.0.0/16,AS513,CERN-DATACENTRE
+CH,"linuxsoft.cern.ch, rsync-linuxsoft.cern.ch",2001:1458:d00:3b::100:175,2001:1458::/32,AS513,CERN
+CH,"linuxsoft.cern.ch, rsync-linuxsoft.cern.ch",188.184.103.15,188.184.0.0/16,AS513,CERN-GPN2
+CH,"linuxsoft.cern.ch, rsync-linuxsoft.cern.ch",2001:1458:d00:25::100:59d,2001:1458::/32,AS513,CERN
+CH,mirror.init7.net,2001:1620::1620,2001:1620::/32,AS13030,"Init Seven AG, AS13030 IPv6 Allocation"
+CH,mirror.init7.net,109.202.202.202,109.202.192.0/19,AS13030,Init7 (Switzerland) Ltd.
+CL,mirror.hnd.cl,2803:8240:50:1035::35,2803:8240::/32,AS52511,LACNIC generated route6 for IRONSERVERS E.I.R.L
+CL,mirror.hnd.cl,138.186.10.35,138.186.10.0/24,AS52511,ZGH Client - Proxy
+CN,mirror.nyist.edu.cn,2001:da8:5018:8::80,,,
+CN,mirror.nyist.edu.cn,59.69.128.21,59.69.128.0/19,AS4538,CMI  (Customer Route)
+CN,mirror.nyist.edu.cn,222.139.215.198,222.136.0.0/13,AS4837,CMI IP Transit
+CN,mirror.nyist.edu.cn,120.194.101.75,120.194.96.0/20,AS24445,CMI  (Customer Route)
+CN,mirrors.bfsu.edu.cn,2409:8700:2482:710::fe55:2840,2409:8700::/32,AS56048,CMI IP Transit
+CN,mirrors.bfsu.edu.cn,39.155.141.16,39.155.128.0/17,AS56048,CMI IP Transit
+CN,mirrors.huaweicloud.com,120.46.2.67,120.46.0.0/17,AS4134,Proxy-registered route object
+CN,mirrors.huaweicloud.com,1.92.76.132,1.92.64.0/18,AS4134,Proxy-registered route object
+CN,mirrors.huaweicloud.com,120.46.63.139,120.46.0.0/17,AS4134,Proxy-registered route object
+CN,mirrors.huaweicloud.com,124.70.61.162,124.70.61.0/24,AS135091,Proxy-registered route object
+CN,mirrors.huaweicloud.com,123.249.118.101,123.249.64.0/18,AS4134,Proxy-registered route object
+CN,mirrors.jlu.edu.cn,2001:da8:b000:10::10,,,
+CN,mirrors.jlu.edu.cn,59.72.66.10,59.72.66.0/24,AS4538,CMI  (Customer Route)
+CN,mirrors.neusoft.edu.cn,219.216.128.25,219.216.0.0/13,AS4538,PACNET (proxy-registered route object)
+CN,mirrors.neusoft.edu.cn,2001:da8:a807::25,,,
+CN,mirrors.tuna.tsinghua.edu.cn,2402:f000:1:400::2,2402:f000::/32,AS45576,CERNET
+CN,mirrors.tuna.tsinghua.edu.cn,101.6.15.130,101.6.0.0/17,AS4538,CMI  (Customer Route)
+CO,edgeuno-bog2.mm.fcix.net,200.25.7.49,200.25.7.0/24,AS7195,EdgeUno CIDR Block Allocated to Bogota
+CO,edgeuno-bog2.mm.fcix.net,2800:1e0:d1f:ffff::49,2800:1e0:d10::/44,AS7195,Edgeuno CIDR
+CZ,ftp.sh.cvut.cz,2001:718:2::196,2001:718::/32,AS2852,CESNET6-TCZ
+CZ,ftp.sh.cvut.cz,147.32.127.196,147.32.0.0/16,AS2852,CVUT
+CZ,mirror.karneval.cz,89.102.0.150,89.102.0.0/16,AS16019,Vodafone Czech Republic a.s.
+CZ,mirror.karneval.cz,2a02:8301:0:2::150,2a02:8300::/29,AS16019,Vodafone Czech Republic a.s.
+CZ,mirror.slu.cz,193.84.206.135,193.84.192.0/20,AS2852,OPF_SLU
+CZ,mirror.slu.cz,2001:718:2601:38e::87,2001:718::/32,AS2852,CESNET6-TCZ
+DE,ftp-stud.hs-esslingen.de,129.143.116.10,129.143.0.0/16,AS553,BELWUE
+DE,ftp-stud.hs-esslingen.de,2001:7c0:700::10,2001:7c0::/32,AS553,BELWUE-V6
+DE,fedora.tu-chemnitz.de,134.109.228.1,134.109.0.0/16,AS680,TU-CHEMNITZ
+DE,ftp.agdsn.de,141.30.235.39,141.30.0.0/16,AS680,Technische Universitaet Dresden
+DE,ftp.agdsn.de,2a13:dd85:b00:12::1,2a13:dd80::/29,AS680,TU Dresden
+DE,ftp.fau.de,131.188.12.211,131.188.0.0/16,AS680,REVUE
+DE,ftp.fau.de,2001:638:a000:1021:21::1,2001:638::/32,AS680,DFN-V6-AGG1
+DE,"rsync.uni-bayreuth.de, ftp.uni-bayreuth.de",132.180.7.30,132.180.0.0/16,AS680,UNIBT-LAN
+DE,"rsync.uni-bayreuth.de, ftp.uni-bayreuth.de",132.180.8.60,132.180.0.0/16,AS680,UNIBT-LAN
+DE,ftp.uni-kl.de,2001:638:208:ef1b:0:ff:fe00:4,2001:638::/32,AS680,DFN-V6-AGG1
+DE,ftp.uni-kl.de,131.246.123.4,131.246.0.0/16,AS199578,RHRK-LAN
+DE,ftp.uni-stuttgart.de,129.69.0.41,129.69.0.0/16,AS553,UNI-STUTTGART
+DE,ftp.uni-stuttgart.de,129.69.0.42,129.69.0.0/16,AS553,UNI-STUTTGART
+DE,ftp.uni-stuttgart.de,2001:7c0:2041:48::41,2001:7c0::/32,AS553,BELWUE-V6
+DE,ftp.uni-stuttgart.de,2001:7c0:2041:48::42,2001:7c0::/32,AS553,BELWUE-V6
+DE,mirror1.hs-esslingen.de,129.143.116.10,129.143.0.0/16,AS553,BELWUE
+DE,mirror1.hs-esslingen.de,2001:7c0:700::10,2001:7c0::/32,AS553,BELWUE-V6
+DE,mirror.23m.com,2a00:f48:1007:32::30,2a00:f48::/32,AS47447,IP Routing by 23M.com
+DE,mirror.23m.com,212.83.32.30,212.83.32.0/24,AS47447,"Path Network, Inc. - Anycasted Proxy-Route for AS47447"
+DE,mirror.de.leaseweb.net,2a00:c98:2030:a034::21,2a00:c98::/32,AS28753,LeaseWeb DE
+DE,mirror.de.leaseweb.net,37.58.58.140,37.58.48.0/20,AS28753,routed via LeaseWeb DE
+DE,mirror.dogado.de,185.3.234.216,185.3.234.0/24,AS8648,
+DE,mirror.dogado.de,2a02:2b80:101:269::11,2a02:2b80:101::/48,AS8648,
+DE,mirror.euserv.net,85.31.185.102,85.31.184.0/22,AS35366,
+DE,mirror.euserv.net,2a02:180:ffff:1::551f:b966,2a02:180::/32,AS35366,ISPpro Internet KG IPv6 DCG
+DE,mirror.imt-systems.com,2a13:9d40:700::19,2a13:9d40::/29,AS57358,
+DE,mirror.imt-systems.com,185.236.50.19,185.236.50.0/23,AS57358,
+DE,mirror.netcologne.de,2001:4dd0:1234:1::deb,2001:4dd0::/32,AS8422,NetCologne GmbH
+DE,mirror.netcologne.de,194.8.197.22,194.8.192.0/19,AS8422,NetCologne PA space
+DE,mirror.netzwerge.de,2a01:55e0::a1f,2a01:55e0::/30,AS199938,Netzwerge GmbH
+DE,mirror.netzwerge.de,185.41.106.155,185.41.106.0/23,AS199938,Netzwerge GmbH
+DE,mirror.plusline.net,2a02:2e0:2810:207:82:98:66:230,2a02:2e0::/29,AS12306,Plus.line AG
+DE,mirror.plusline.net,82.98.66.230,82.98.64.0/18,AS12306,Plus.line AG
+DE,mirror.scaleuptech.com,85.158.4.237,85.158.4.0/23,AS29014,INTERNET4YOU-DE-HH1
+DE,mirror.scaleuptech.com,2a00:12e8:0:7::7,2a00:12e8::/40,AS29014,internet4YOU hh1.de
+DE,mirrors.de.sahilister.net,138.201.226.249,138.201.0.0/16,AS24940,HETZNER-RZ-BLK-ERX4
+DE,mirrors.de.sahilister.net,2a01:4f8:173:1e53::2,2a01:4f8::/32,AS24940,HETZNER-IPv6-BLK
+DE,mirrors.n-ix.net,194.8.57.42,194.8.57.0/24,AS21083,NIX-SERVICES-NET
+DE,mirrors.n-ix.net,2001:67c:14d:320:deb:deb:deb:deb,2001:67c:14d::/48,AS21083,NIX-SERVICES-IPV6-NET
+DE,mirrors.xtom.de,62.133.35.14,62.133.35.0/24,AS949,
+DE,mirrors.xtom.de,2a09:0:8::14,2a09:0:8::/48,AS3214,xTom
+DK,mirror.group.one,46.30.211.12,46.30.208.0/21,AS51468,One.com A/S
+DK,mirror.group.one,2a02:2350::211:12,2a02:2350::/32,AS51468,One.com A/S
+DK,mirror.netsite.dk,2a0c:cc00:0:1604::1,2a0c:cc00::/32,AS205206,
+DK,mirror.netsite.dk,185.224.16.132,185.224.16.0/22,AS205206,
+DK,mirrors.dotsrc.org,2001:878:346::116,2001:878::/32,AS1835,FORSKNINGSNETTET-6BLOCK1
+DK,mirrors.dotsrc.org,130.225.254.116,130.225.0.0/16,AS1835,Forskningsnettet-130.225
+DK,mirrors.fibianet.dk,5.186.160.93,5.186.0.0/16,AS44869,SEAS-NVE IPv4 Network
+DO,stix.mm.fcix.net,45.68.42.105,45.68.42.0/24,AS273867,LACNIC generated route for ADOTIC ASOCIACIÓN DOMINICANA DE EMPRESAS DE TECNOLOGÍAS DE INFORMACIÓN Y COMUNICACIÓN (STIX)
+DO,stix.mm.fcix.net,2801:1f5:41::105,2801:1f5:40::/42,AS273867,LACNIC generated route6 for ADOTIC ASOCIACIÓN DOMINICANA DE EMPRESAS DE TECNOLOGÍAS DE INFORMACIÓN Y COMUNICACIÓN (STIX)
+EC,mirror.cedia.org.ec,2800:68:0:bebe::3,2800:68::/48,AS61468,"TELCONET, ISP Guayaquil, 59346020650"
+EC,mirror.cedia.org.ec,201.159.221.67,201.159.220.0/22,AS61468,LACNIC generated route for CEDIA
+EC,mirror.linux.ec,186.69.15.72,186.68.0.0/15,AS14522,COLUMBUS NETWORKS TRANSIT CUSTOMERS
+EE,mirror.cspacehostings.com,2a10:46c0:0:3::2,2a10:46c0::/32,AS208367,
+EE,mirror.cspacehostings.com,45.142.100.34,45.142.100.0/24,AS208367,
+EE,mirrors.xtom.ee,185.37.252.138,185.37.252.0/24,AS949,Customer Route
+EE,mirrors.xtom.ee,2a04:6f00::138,2a04:6f00::/32,AS3214,xTom
+ES,"ftp.cica.es, rsync.cica.es",150.214.5.134,150.214.0.0/16,AS198096,Centro Informatico Cientifico de Andalucia - CICA
+ES,"ftp.cica.es, rsync.cica.es",2a00:9ac0:c1ca:5::134,2a00:9ac0::/32,AS198096,Centro Informatico Cientifico de Andalucia - CICA
+ES,"ftp.cica.es, rsync.cica.es",150.214.5.134,150.214.0.0/16,AS198096,Centro Informatico Cientifico de Andalucia - CICA
+ES,"ftp.cica.es, rsync.cica.es",2a00:9ac0:c1ca:5::134,2a00:9ac0::/32,AS198096,Centro Informatico Cientifico de Andalucia - CICA
+ES,ftp.rediris.es,2001:720:418:cafd::2,2001:720::/32,AS766,RedIRIS
+ES,ftp.rediris.es,130.206.13.2,130.206.0.0/16,AS766,RedIRIS
+ES,mirror.airenetworks.es,84.232.3.140,84.232.0.0/17,AS29119,ServiHosting Networks S.L.
+ES,mirror.raiolanetworks.com,91.132.103.246,91.132.103.0/24,AS56958,
+ES,mirror.raiolanetworks.com,2a12:d282:102:f6::1,2a12:d282::/31,AS56958,
+FI,"rsync.nic.funet.fi, www.nic.funet.fi",193.166.3.6,193.166.0.0/15,AS1741,FUNET-BLOCK
+FI,"rsync.nic.funet.fi, www.nic.funet.fi",2001:708:10:8::6,2001:708:10::/48,AS1741,FUNET 2001:708:10::/48
+FI,"rsync.nic.funet.fi, www.nic.funet.fi",193.166.3.3,193.166.0.0/15,AS1741,FUNET-BLOCK
+FI,"rsync.nic.funet.fi, www.nic.funet.fi",2001:708:10:8::3,2001:708:10::/48,AS1741,FUNET 2001:708:10::/48
+FR,distrib-coffee.ipsl.jussieu.fr,134.157.176.20,134.157.0.0/16,AS1307,FR-UPMC-NET
+FR,fr2.rpmfind.net,195.220.108.108,195.220.0.0/16,AS2200,RENATER
+FR,mirror.centos.ikoula.com,80.93.84.15,80.93.80.0/20,AS21409,Ikoula Ripe Block
+FR,mirror.centos.ikoula.com,2a00:c70:1:80:93:84:15:2,2a00:c70::/32,AS21409,Ikoula Ripe Block IPv6
+FR,mirror.centos.ikoula.com,2a00:c70:1:80:93:84:15:1,2a00:c70::/32,AS21409,Ikoula Ripe Block IPv6
+FR,mirror.in2p3.fr,134.158.69.171,134.158.0.0/16,AS789,Institut National de Physique Nucleaire et de Physique des Particules
+FR,mirrors.ircam.fr,129.102.1.37,129.102.0.0/16,AS2200,FR-IRCAM
+FR,mirrors.ircam.fr,2001:660:3004:4003::37:80,2001:660::/32,AS2200,RENATER
+GB,ask4.mm.fcix.net,78.109.176.29,78.109.176.0/20,AS41230,Ask4 Network
+GB,b4sh.mm.fcix.net,185.243.104.98,185.243.104.0/24,AS58273,Broadband for the Surrey Hills
+GB,"centos-stream.mirrorservice.org, rsync.mirrorservice.org",212.219.56.184,212.219.0.0/16,AS786,JANET
+GB,"centos-stream.mirrorservice.org, rsync.mirrorservice.org",2001:630:341:12::184,2001:630::/32,AS786,JANET
+GB,"centos-stream.mirrorservice.org, rsync.mirrorservice.org",212.219.56.184,212.219.0.0/16,AS786,JANET
+GB,"centos-stream.mirrorservice.org, rsync.mirrorservice.org",2001:630:341:12::184,2001:630::/32,AS786,JANET
+GB,creeperhost.mm.fcix.net,2a04:de40:81::3,2a04:de40:80::/42,AS201971,
+GB,creeperhost.mm.fcix.net,185.57.191.252,185.57.191.0/24,AS201971,CreeperHost small customer subnet assignments
+GB,fedora.mirrorservice.org,212.219.56.184,212.219.0.0/16,AS786,JANET
+GB,fedora.mirrorservice.org,2001:630:341:12::184,2001:630::/32,AS786,JANET
+GB,mirror.freethought-internet.co.uk,176.74.19.52,176.74.16.0/21,AS41000,UK-FREETHOUGHT-20110615 route object
+GB,mirror.freethought-internet.co.uk,2a00:b980:2:5::52,2a00:b980::/29,AS41000,UK-FREETHOUGHT-20110523 route object
+GB,mirrors.20i.com,185.151.29.252,185.151.29.0/24,AS48254,
+GB,mirrors.coreix.net,85.13.241.50,85.13.192.0/18,AS31708,Coreix Limited
+GB,mirrors.coreix.net,2a01:c0:2:3d::2,2a01:c0::/32,AS31708,Coreix Limited - IPv6 Services
+GB,mirrors.ukfast.co.uk,2a02:22d0:5:249:46:37:174:166,2a02:22d0::/32,AS61323,
+GB,mirrors.ukfast.co.uk,46.37.174.166,46.37.160.0/19,AS61323,
+GE,epel.grena.ge,217.147.225.74,217.147.225.0/24,AS20545,GRENA Radio Network
+GE,epel.srv.magticom.ge,213.157.205.216,213.157.192.0/20,AS16010,MAGTICOM
+GE,epel.srv.magticom.ge,2a0b:6200:d:c::c,2a0b:6200::/29,AS16010,
+GE,ge.mirror.cloud9.ge,45.138.45.21,45.138.45.0/24,AS57814,
+GR,ftp.otenet.gr,2a02:587:dff:501::89,2a02:587::/35,AS6799,
+GR,ftp.otenet.gr,212.205.74.89,212.205.0.0/16,AS6799,OTEnet
+HK,hkg.mirror.rackspace.com,180.150.156.88,180.150.128.0/19,AS45187,REACH (Customer Route)
+HK,mirror.01link.hk,172.67.197.157,172.67.192.0/20,AS13335,"Cloudflare, Inc."
+HK,mirror.01link.hk,104.21.36.172,104.21.32.0/20,AS13335,"Cloudflare, Inc."
+HK,mirror.01link.hk,2606:4700:3037::ac43:c59d,2606:4700:3037::/48,AS13335,"Cloudflare, Inc."
+HK,mirror.01link.hk,2606:4700:3032::6815:24ac,2606:4700:3032::/48,AS13335,"Cloudflare, Inc."
+HU,ftp.bme.hu,152.66.115.246,152.66.0.0/16,AS2547,BMENET
+HU,ftp.bme.hu,2001:738:2001:2001::c1ca,2001:738::/32,AS1955,HBONE/Hungarnet
+HU,mirror.szerverem.hu,193.225.55.64,193.224.0.0/15,AS1955,HBONE/HUNGARNET Block 02
+ID,mirror.biznetgio.com,103.89.154.81,103.89.154.0/24,AS133800,origin AS133800 via CBN
+ID,mirror.citrahost.com,117.20.49.107,117.20.49.0/24,AS23951,PT Jembatan Citra Nusantara
+ID,mirror.nevacloud.com,36.50.77.113,36.50.77.0/24,AS138115,Route Object for 36.50.77.0/24
+ID,mirror.papua.go.id,103.100.247.59,103.100.247.0/24,AS136842,Routes announced to Level 3 by BIZNET.
+ID,mirror.papua.go.id,2405:bc0:8000:247::59,2405:bc0:8000::/48,AS136842,Pemerintah Provinsi Papua
+IL,rep-epel-il.upress.io,31.154.69.218,31.154.0.0/17,AS12400,
+IN,repo.extreme-ix.org,103.77.111.8,103.77.111.0/24,AS135814,Extreme IX
+IS,centos.is,2a06:a101:80:80::2,2a06:a100::/29,AS48685,Opin Kerfi Route
+IS,centos.is,176.57.227.242,176.57.224.0/20,AS48685,OK Route
+IS,epel.hysing.is,2a02:f48:2104:1000::1:1,2a02:f48:2104::/48,AS44515,F5-v6-1
+IS,epel.hysing.is,82.221.64.42,82.221.64.0/22,AS44515,F5-v4-1
+IS,www.fedora.is,2a06:a101:80:80::2,2a06:a100::/29,AS48685,Opin Kerfi Route
+IS,www.fedora.is,176.57.227.242,176.57.224.0/20,AS48685,OK Route
+IT,centos.mirror.garr.it,90.147.160.70,90.147.0.0/16,AS137,GARR routes
+IT,centos.mirror.garr.it,2001:760:ffff:b6:4:100:0:72,2001:760::/32,AS137,GARR-IPv6
+IT,fedora.mirror.garr.it,90.147.160.70,90.147.0.0/16,AS137,GARR routes
+IT,fedora.mirror.garr.it,2001:760:ffff:b6:4:100:0:72,2001:760::/32,AS137,GARR-IPv6
+IT,it1.mirror.vhosting-it.com,2a0c:79c0:1:eb::4,2a0c:79c0:1::/48,AS60798,VHosting Solution srl
+IT,it1.mirror.vhosting-it.com,185.116.60.235,185.116.60.0/24,AS60798,VHosting Solution srl
+IT,it2.mirror.vhosting-it.com,86.105.14.235,86.105.14.0/24,AS12779,VHosting Solution @IT.Gate
+IT,it2.mirror.vhosting-it.com,2a0c:79c0:2:eb::4,2a0c:79c0:2::/48,AS12779,VHosting Solution @IT.Gate
+JP,"alma.acidman.thelefty.org, jp.alma.acidman.thelefty.org",103.202.217.13,103.202.217.0/24,AS59105,Home NOC Operators Group IPv4 BLOCK-2
+JP,"alma.acidman.thelefty.org, jp.alma.acidman.thelefty.org",2403:bd80:c100:401:3e52:82ff:fe01:bfa5,2403:bd80::/32,AS59105,Home NOC Operators Group IPv6 ORIGIN-BLOCK-1
+JP,"alma.acidman.thelefty.org, jp.alma.acidman.thelefty.org",103.202.217.13,103.202.217.0/24,AS59105,Home NOC Operators Group IPv4 BLOCK-2
+JP,"alma.acidman.thelefty.org, jp.alma.acidman.thelefty.org",2403:bd80:c100:401:3e52:82ff:fe01:bfa5,2403:bd80::/32,AS59105,Home NOC Operators Group IPv6 ORIGIN-BLOCK-1
+JP,ftp.iij.ad.jp,2001:240:bb8f:f::10,2001:240::/32,AS2497,IIJ IPv6 BLOCK ( AS2497 )
+JP,ftp.iij.ad.jp,202.232.140.10,202.232.0.0/16,AS2497,IIJ IPv4 BLOCK ( AS2497 )
+JP,ftp.riken.jp,134.160.38.1,134.160.0.0/16,AS2907,The Institute of Physical and Chemical Research
+JP,ftp.udx.icscoe.jp,2401:5e40:1000:1112::228,2401:5e40::/33,AS63770,Industrial Cyber Security Center of Excellence
+JP,ftp.udx.icscoe.jp,219.100.92.228,219.100.92.0/24,AS63770,Industrial Cyber Security Center of Excellence
+JP,ftp.yz.yamagata-u.ac.jp,133.24.248.18,133.24.248.0/24,AS131159,Yamagata University
+JP,ftp.yz.yamagata-u.ac.jp,133.24.248.19,133.24.248.0/24,AS131159,Yamagata University
+JP,ftp.yz.yamagata-u.ac.jp,133.24.248.17,133.24.248.0/24,AS131159,Yamagata University
+JP,ftp.yz.yamagata-u.ac.jp,133.24.248.16,133.24.248.0/24,AS131159,Yamagata University
+JP,ftp.yz.yamagata-u.ac.jp,2001:df0:25e:e100::3,2001:df0:25e::/48,AS131159,Yamagata University
+JP,ftp.yz.yamagata-u.ac.jp,2001:df0:25e:e100::2,2001:df0:25e::/48,AS131159,Yamagata University
+JP,linux.yz.yamagata-u.ac.jp,133.24.248.18,133.24.248.0/24,AS131159,Yamagata University
+JP,linux.yz.yamagata-u.ac.jp,133.24.248.19,133.24.248.0/24,AS131159,Yamagata University
+JP,linux.yz.yamagata-u.ac.jp,133.24.248.17,133.24.248.0/24,AS131159,Yamagata University
+JP,linux.yz.yamagata-u.ac.jp,133.24.248.16,133.24.248.0/24,AS131159,Yamagata University
+JP,linux.yz.yamagata-u.ac.jp,2001:df0:25e:e100::3,2001:df0:25e::/48,AS131159,Yamagata University
+JP,linux.yz.yamagata-u.ac.jp,2001:df0:25e:e100::2,2001:df0:25e::/48,AS131159,Yamagata University
+KE,centos-stream.mirror.liquidtelecom.com,197.155.77.1,197.155.77.0/24,AS30844,Maintainer Liquid Telecommunications Operations Limited
+KE,centos-stream.mirror.liquidtelecom.com,2c0f:fe40:8001:10::1,2c0f:fe40::/32,AS30844,Proxy registered route object
+KE,epel.mirror.liquidtelecom.com,197.155.77.1,197.155.77.0/24,AS30844,Maintainer Liquid Telecommunications Operations Limited
+KE,epel.mirror.liquidtelecom.com,2c0f:fe40:8001:10::1,2c0f:fe40::/32,AS30844,Proxy registered route object
+KE,fedora-alt.mirror.liquidtelecom.com,197.155.77.1,197.155.77.0/24,AS30844,Maintainer Liquid Telecommunications Operations Limited
+KE,fedora-alt.mirror.liquidtelecom.com,2c0f:fe40:8001:10::1,2c0f:fe40::/32,AS30844,Proxy registered route object
+KE,fedora-archive.mirror.liquidtelecom.com,197.155.77.1,197.155.77.0/24,AS30844,Maintainer Liquid Telecommunications Operations Limited
+KE,fedora-archive.mirror.liquidtelecom.com,2c0f:fe40:8001:10::1,2c0f:fe40::/32,AS30844,Proxy registered route object
+KE,fedora.mirror.liquidtelecom.com,197.155.77.1,197.155.77.0/24,AS30844,Maintainer Liquid Telecommunications Operations Limited
+KE,fedora.mirror.liquidtelecom.com,2c0f:fe40:8001:10::1,2c0f:fe40::/32,AS30844,Proxy registered route object
+KE,fedora-secondary.mirror.liquidtelecom.com,197.155.77.1,197.155.77.0/24,AS30844,Maintainer Liquid Telecommunications Operations Limited
+KE,fedora-secondary.mirror.liquidtelecom.com,2c0f:fe40:8001:10::1,2c0f:fe40::/32,AS30844,Proxy registered route object
+KH,mirror.sabay.com.kh,118.67.200.33,118.67.200.0/24,AS7712,CIDC INFORMATION TECHNOLOGY CO.; LTD.
+KH,mirror.sabay.com.kh,2405:aa00:2::33,2405:aa00::/32,AS7712,CIDC INFORMATION TECHNOLOGY CO.; LTD.
+KH,mirror.sabay.com.kh,118.67.201.33,118.67.201.0/24,AS7712,CIDC INFORMATION TECHNOLOGY CO.; LTD.
+KH,mirror.sabay.com.kh,2405:aa00:1::33,2405:aa00::/32,AS7712,CIDC INFORMATION TECHNOLOGY CO.; LTD.
+ko,mirror.navercorp.com,125.209.216.167,125.209.216.0/22,AS23576,NHN
+KR,ftp.kaist.ac.kr,2001:320:237::2,2001:320::/32,AS1237,KINX-6NGIX
+KR,ftp.kaist.ac.kr,210.117.237.2,210.117.237.0/24,AS152671,Korea Internet & Security Agency (KISA)
+KR,"rsync-icn.yuki.net.uk, mirror-icn.yuki.net.uk",182.237.60.103,182.237.60.0/22,AS38676,CRUnet
+KR,"rsync-icn.yuki.net.uk, mirror-icn.yuki.net.uk",182.237.60.103,182.237.60.0/22,AS38676,CRUnet
+KR,mirror.krfoss.org,104.18.2.112,104.18.0.0/20,AS13335,"Cloudflare, Inc."
+KR,mirror.krfoss.org,2606:4700::6812:270,2606:4700::/44,AS13335,"Cloudflare, Inc."
+KR,mirror.krfoss.org,2606:4700::6812:370,2606:4700::/44,AS13335,"Cloudflare, Inc."
+KR,mirror.krfoss.org,104.18.3.112,104.18.0.0/20,AS13335,"Cloudflare, Inc."
+KZ,mirror.hoster.kz,194.4.58.247,194.4.58.0/24,AS202958,
+KZ,mirror.ps.kz,195.210.46.141,195.210.46.0/24,AS48716,PS Internet Company LLC Network
+KZ,mirror.ps.kz,2a00:5da0:1:1::141,2a00:5da0::/36,AS48716,
+LT,epel.mirror.serveriai.lt,194.135.92.100,194.135.80.0/20,AS62282,LT-RACKRAY
+LT,mirror.cherryservers.com,84.32.214.172,84.32.214.0/24,AS16125,autogen
+LT,mirror.vpsnet.com,2a05:7cc0::91:211:244:15,2a05:7cc0::/29,AS61053,ESNET
+LT,mirror.vpsnet.com,91.211.244.15,91.211.244.0/22,AS61053,ESNET
+LU,fedora.mirror.root.lu,2a01:608:f::1337,2a01:608::/32,AS5577,root SA
+LU,fedora.mirror.root.lu,195.24.74.198,195.24.72.0/21,AS5577,root SA
+LV,centos-stream.koyanet.lv,2a00:17c0:c6::1:b,2a00:17c0::/32,AS12993,Digitalas Ekonomikas Attistibas Centrs
+LV,centos-stream.koyanet.lv,89.111.47.132,89.111.0.0/18,AS12993,Digitalas Ekonomikas Attistibas Centrs
+LV,fedora-epel.koyanet.lv,2a00:17c0:c6::1:6,2a00:17c0::/32,AS12993,Digitalas Ekonomikas Attistibas Centrs
+LV,fedora-epel.koyanet.lv,89.111.47.130,89.111.0.0/18,AS12993,Digitalas Ekonomikas Attistibas Centrs
+LV,ftp.linux.edu.lv,5.179.20.176,5.179.16.0/21,AS8605,University of Latvia
+LV,ftp.linux.edu.lv,2001:67c:2198:1336::16,2001:67c:2198::/48,AS8605,University of Latvia
+LV,mirror.veesp.com,2a0c:16c1:1:1500:225:c2ff:fe00:31,2a0c:16c1::/32,AS42532,VEESP datacenter clients
+LV,mirror.veesp.com,185.242.105.70,185.242.104.0/22,AS42532,
+MD,mirror.hosthink.net,185.163.47.71,185.163.47.0/24,AS39798,MivoCloud
+MD,mirror.mangohost.net,45.83.178.178,45.83.178.0/24,AS56380,
+MD,repo.fedora.md,95.65.43.79,95.65.0.0/18,AS31252,SC STARNET SRL
+mk,mirror.t-home.mk,195.26.153.65,195.26.153.0/24,AS6821,ROUTE-OBJ-IT-MTNET
+MY,fedora.mirror.thegigabit.com,118.107.220.179,118.107.220.0/24,AS55720,Customer
+MY,fedora.mirror.thegigabit.com,2402:9500:e000:1003::ba17:2,2402:9500:e000::/48,AS55720,Gigabit Hosting Sdn Bhd
+MY,mirrors.ipserverone.com,2403:1cc0:1000:902:103:197:57:60,2403:1cc0:1000::/48,AS45352,IPDC SOLUTIONS SDN BHD
+MY,mirrors.ipserverone.com,103.197.57.60,103.197.57.0/24,AS45352,Route Object - 103.197.57.0/24
+MY,repo2.shinjiru.com,111.90.158.246,111.90.158.0/24,AS19324,Shinjiru Technology Sdn Bhd
+MY,repo2.shinjiru.com,2407:6c00:18:1::2fd,2407:6c00:18::/48,AS45839,route object for 2407:6c00:18::/48
+NL,centos-stream.mirror.wearetriple.com,93.187.10.24,93.187.10.0/24,AS50295,Triple-IT Hosting Facilities
+NL,centos-stream.mirror.wearetriple.com,2a00:1f00:dc06:10::6,2a00:1f00::/32,AS50295,Triple-IT Hosting Facilities
+NL,eu.edge.kernel.org,2a01:60a::1994:3:14,2a01:60a::/32,AS7979,SERVERS.COM AMS7
+NL,eu.edge.kernel.org,213.196.21.55,213.196.21.0/24,AS7979,SERVERS.COM AMS7
+NL,ftp.tudelft.nl,131.180.77.11,131.180.0.0/16,AS1128,Delft University of Technology Network
+NL,repo.centos.mirror.famaserver.com,45.252.182.13,45.252.182.0/24,AS48011,"Path Network, Inc. - Anycasted Proxy-Route for AS48011"
+NL,mirror.ams-1.serverforge.org,2602:fb68:40::4,2602:fb68:40::/42,AS50842,AMS1
+NL,mirror.ams-1.serverforge.org,130.12.241.4,130.12.241.0/24,AS50842,ServerForge AMS
+NL,mirror.hostnet.nl,91.184.8.79,91.184.0.0/19,AS19905,SP-HOSTNET
+NL,mirror.i3d.net,2a00:1633:3400::214,2a00:1633::/32,AS49544,i3D.net B.V. Tokyo Japan
+NL,mirror.i3d.net,103.194.167.214,103.194.164.0/22,AS49544,i3D.net B.V. Tokyo Japan
+NL,"epel.mirror.liteserver.nl, mirror.liteserver.nl, fedora.mirror.liteserver.nl",2a04:52c0:1000:254::254,2a04:52c0:1000::/48,AS60404,
+NL,"epel.mirror.liteserver.nl, mirror.liteserver.nl, fedora.mirror.liteserver.nl",192.76.153.254,192.76.153.0/24,AS60404,
+NL,"epel.mirror.liteserver.nl, mirror.liteserver.nl, fedora.mirror.liteserver.nl",2a04:52c0:1000:254::254,2a04:52c0:1000::/48,AS60404,
+NL,"epel.mirror.liteserver.nl, mirror.liteserver.nl, fedora.mirror.liteserver.nl",192.76.153.254,192.76.153.0/24,AS60404,
+NL,"epel.mirror.liteserver.nl, mirror.liteserver.nl, fedora.mirror.liteserver.nl",2a04:52c0:1000:254::254,2a04:52c0:1000::/48,AS60404,
+NL,"epel.mirror.liteserver.nl, mirror.liteserver.nl, fedora.mirror.liteserver.nl",192.76.153.254,192.76.153.0/24,AS60404,
+NL,mirror.netone.nl,2001:67c:dec:195:95:177:10:a,2001:67c:dec::/48,AS200132,
+NL,mirror.netone.nl,195.95.177.10,195.95.177.0/24,AS200132,
+NL,mirror.nl.leaseweb.net,2001:1af8:4700:b210::33,2001:1af8::/32,AS60781,NL-LEASEWEB-20040408
+NL,mirror.nl.leaseweb.net,5.79.108.33,5.79.64.0/18,AS60781,LEASEWEB
+NL,mirrors.hostiserver.com,45.84.31.11,45.84.31.0/24,AS32338,
+NL,mirrors.hostiserver.com,2a05:44c1:1:5::555,2a05:44c1::/32,AS32338,
+NL,mirror.transip.net,2a01:7c8:901:0:c01d:c0ff:ee:bad3,2a01:7c8::/32,AS20857,TransIP B.V. Amsterdam IPv6 network
+NL,mirror.transip.net,80.69.65.9,80.69.64.0/19,AS20857,TransIP B.V. Amsterdam network
+NL,mirror.wd6.net,2001:15c8:0:5a::225,2001:15c8::/32,AS20495,We Dare IPv6
+NL,mirror.wd6.net,84.244.155.225,84.244.128.0/19,AS20495,We Dare B.V.
+NO,"mirror.fjordos.com, rsync.fjordos.com",169.150.249.168,169.150.249.0/24,AS60068,CDN77 Los Angeles
+NO,"mirror.fjordos.com, rsync.fjordos.com",2400:52e0:1a01::1111:1,2400:52e0:1a01::/48,AS200325,"BUNNYWAY, informacijske storitve d.o.o"
+NO,"mirror.fjordos.com, rsync.fjordos.com",185.136.157.5,185.136.156.0/22,AS29066,velia.net Internetdienste GmbH
+NZ,mirror.2degrees.nz,2406:e000:0:500::86,2406:e000::/32,AS23655,Vocus Route IPv6
+NZ,mirror.2degrees.nz,202.36.220.86,202.36.220.0/23,AS23655,Vocus Route IPv4
+PH,mirror.rise.ph,43.226.6.79,43.226.6.0/24,AS137074,Responsible Internet Sustainability Effort
+PL,mirror.chmuri.net,193.178.43.153,193.178.43.0/24,AS50840,
+PR,mirrors.upr.edu,2607:2000:1017:1:136:145:244:40,2607:2000::/32,AS5786,University of Puerto Rico
+PR,mirrors.upr.edu,136.145.244.40,136.145.244.0/24,AS5786,University of Puerto Rico
+RO,mirror.efect.ro,91.209.189.249,91.209.189.0/24,AS48571,SC efectRO SRL
+RO,mirror.efect.ro,2a0c:cb40:1000::249,2a0c:cb40::/29,AS48571,
+RO,mirror.eu.4psacloud.com,194.60.72.150,194.60.72.0/24,AS34740,PCHardware
+RO,mirror.eu.4psacloud.com,2a03:32e0:1:0:c23c:4896:0:150,2a03:32e0:1::/48,AS34740,4PSA Cloud
+RO,mirror.flo.c-f.ro,37.251.174.43,37.251.160.0/20,AS34358,
+RO,mirrors.chroot.ro,2a05:91c0:504::178,2a05:91c0::/32,AS56430,Chroot Network SRL
+RO,mirrors.chroot.ro,86.105.155.178,86.105.155.0/24,AS56430,Chroot Network SRL
+RO,mirrors.hosterion.ro,2a06:cd40:100:cafe::2,2a06:cd40:100::/48,AS43927,
+RO,mirrors.hosterion.ro,91.188.226.250,91.188.226.0/24,AS43927,
+RO,mirrors.hostico.ro,188.241.222.52,188.241.222.0/24,AS5606,Awesome Projects S.R.L.
+RO,mirrors.nav.ro,5.154.224.26,5.154.224.0/24,AS6718,NAV Communications
+RO,mirrors.nav.ro,2a00:ece0:6718:103::a,2a00:ece0::/32,AS6718,NAV Communications
+RO,mirrors.nxthost.com,2a02:13f0:8200::b064:c4fe,2a02:13f0:8200::/48,AS64398,NXTSERVERS-NET
+RO,mirrors.nxthost.com,5.83.47.15,5.83.47.0/24,AS64398,NXTSERVERS-NET
+RS,mirror.etf.bg.ac.rs,147.91.8.38,147.91.0.0/17,AS13092,Academic Network of Serbia (AMRES)
+RU,fedora-mirror02.rbc.ru,80.68.250.216,80.68.250.0/24,AS20848,RosBusinessConsulting DC Network
+RU,ftp.nsc.ru,2a00:bf00:0:3::3,2a00:bf00::/32,AS5387,RU-SBRAS-20110217
+RU,ftp.nsc.ru,217.79.61.35,217.79.60.0/22,AS5387,NSC BB
+RU,mirror.hyperdedic.ru,45.157.140.21,45.157.140.0/24,AS213717,
+RU,mirror.logol.ru,89.108.110.121,89.108.110.0/24,AS197695,Reg.Ru-B2C
+RU,mirrors.powernet.com.ru,31.128.159.4,31.128.159.0/24,AS51032,POWERNET ISP
+RU,mirror.yandex.ru,2a02:6b8::183,2a02:6b8::/32,AS13238,Yandex network
+RU,mirror.yandex.ru,213.180.204.183,213.180.192.0/19,AS13238,Yandex network
+SA,mirror.maeen.sa,212.138.116.34,212.138.0.0/16,AS8895,ITC via EMIX
+SE,ftp.lysator.liu.se,130.236.254.253,130.236.0.0/16,AS2843,LIUNET
+SE,ftp.lysator.liu.se,2001:6b0:17:f0a0::fb,2001:6b0::/32,AS1653,SUNET
+SE,ftp.lysator.liu.se,130.236.254.251,130.236.0.0/16,AS2843,LIUNET
+SE,ftp.lysator.liu.se,2001:6b0:17:f0a0::fd,2001:6b0::/32,AS1653,SUNET
+SE,mirror.accum.se,194.71.11.165,194.71.11.0/24,AS15980,ftp-archive
+SE,mirror.accum.se,194.71.11.173,194.71.11.0/24,AS15980,ftp-archive
+SE,mirror.accum.se,2001:6b0:19::165,2001:6b0::/32,AS1653,SUNET
+SE,mirror.accum.se,2001:6b0:19::173,2001:6b0::/32,AS1653,SUNET
+SE,mirror.bahnhof.net,2001:9b0:fff5:c::2,2001:9b0::/32,AS8473,Bahnhof Ipv6-aggregate
+SE,mirror.bahnhof.net,98.128.159.146,98.128.0.0/16,AS8473,
+SE,mirror.nsc.liu.se,130.236.101.93,130.236.0.0/16,AS2843,LIUNET
+SE,mirror.nsc.liu.se,2001:6b0:17:2::1:93,2001:6b0::/32,AS1653,SUNET
+SE,mirrors.glesys.net,2a02:750:9::e8,2a02:750::/29,AS42708,
+SE,mirrors.glesys.net,109.74.12.226,109.74.0.0/20,AS42708,
+SG,mirror.freedif.org,66.96.199.63,66.96.199.0/24,AS56300,MyRepublic Pte Ltd
+SI,ftp.arnes.si,193.2.241.134,193.2.0.0/16,AS2107,ARNES provider block
+SI,ftp.arnes.si,2001:1470:8000:40::134,2001:1470::/32,AS2107,ARNES provider block
+SK,ftp.upjs.sk,2001:4118:400:10::70,2001:4118::/33,AS2607,SANET-AS2607-BLOCK
+SK,ftp.upjs.sk,158.197.16.70,158.197.0.0/17,AS2607,UPJSNET
+TH,mirror.kku.ac.th,202.28.95.174,202.28.92.0/22,AS9546,Khonkean University via UniNet
+TH,mirror.kku.ac.th,2001:3c8:c108:2895::2,2001:3c8::/32,AS4621,UniNet Network Thailand IPv6 block
+TH,mirrors.thzhost.com,103.246.18.124,103.246.16.0/22,AS131447,CSLoxinfo IDC customer
+TH,mirrors.thzhost.com,2401:5700:503:124::1,2401:5700::/32,AS131447,"World Datanetwork Corporation Co., Ltd."
+TR,linus.iyte.edu.tr,193.140.248.40,193.140.248.0/22,AS8517,ULAKNET
+TW,fedora.cs.nctu.edu.tw,140.113.17.5,140.113.0.0/16,AS9916,"Far Eastone Telecommunications Co., Ltd"
+TW,fedora.cs.nycu.edu.tw,140.113.17.5,140.113.0.0/16,AS9916,"Far Eastone Telecommunications Co., Ltd"
+TW,free.nchc.org.tw,140.110.240.80,140.110.0.0/16,AS7539,Taiwan Network Information Center
+TW,free.nchc.org.tw,2001:e10:2000:240:e643:4bff:fee8:a63c,2001:e10::/32,AS7539,Taiwan Network Information Center
+TW,mirror.twds.com.tw,103.147.22.36,103.147.22.0/24,AS18041,Customer Route - LOA provided
+TW,mirror.twds.com.tw,2405:a640::36,2405:a640::/32,AS18041,Taiwan Network Information Center
+UA,centos-stream.ip-connect.info,2001:67c:440:401::face:13,2001:67c:440::/48,AS57944,** IP-Connect IPv6 IPv6 route ***
+UA,centos-stream.ip-connect.info,91.236.251.13,91.236.251.0/24,AS57944,V-node
+UA,epel.ip-connect.info,2001:67c:440:401::face:13,2001:67c:440::/48,AS57944,** IP-Connect IPv6 IPv6 route ***
+UA,epel.ip-connect.info,91.236.251.13,91.236.251.0/24,AS57944,V-node
+UA,epel.ip-connect.vn.ua,91.236.251.14,91.236.251.0/24,AS57944,V-node
+UA,epel.ip-connect.vn.ua,2001:67c:440:f620:91:236:251:38,2001:67c:440::/48,AS57944,** IP-Connect IPv6 IPv6 route ***
+UA,epel.ip-connect.vn.ua,2001:67c:440:401::face:14,2001:67c:440::/48,AS57944,** IP-Connect IPv6 IPv6 route ***
+UA,epel.ip-connect.vn.ua,2001:67c:440:f620:91:236:251:35,2001:67c:440::/48,AS57944,** IP-Connect IPv6 IPv6 route ***
+UA,epel.ip-connect.vn.ua,91.236.251.34,91.236.251.0/24,AS57944,V-node
+UA,epel.ip-connect.vn.ua,91.236.251.35,91.236.251.0/24,AS57944,V-node
+UA,epel.ip-connect.vn.ua,2001:67c:440:f620:91:236:251:34,2001:67c:440::/48,AS57944,** IP-Connect IPv6 IPv6 route ***
+UA,epel.ip-connect.vn.ua,91.236.251.38,91.236.251.0/24,AS57944,V-node
+UA,"epel.mirror.omnilance.com, mirror.omnilance.com",2001:67c:25dc:2::128:20,2001:67c:25dc::/48,AS3236,SERVER.UA LLC
+UA,"epel.mirror.omnilance.com, mirror.omnilance.com",185.126.112.9,185.126.112.0/24,AS3236,SERVER.UA LLC
+UA,"epel.mirror.omnilance.com, mirror.omnilance.com",2001:67c:25dc:2::128:20,2001:67c:25dc::/48,AS3236,SERVER.UA LLC
+UA,"epel.mirror.omnilance.com, mirror.omnilance.com",185.126.112.9,185.126.112.0/24,AS3236,SERVER.UA LLC
+UA,epel.mirror.ukraine.com.ua,2a06:6440:0:2d5f::1,2a06:6440::/29,AS200000,
+UA,epel.mirror.ukraine.com.ua,185.104.45.95,185.104.44.0/22,AS200000,
+UA,fedora-archive.ip-connect.info,2001:67c:440:401::face:13,2001:67c:440::/48,AS57944,** IP-Connect IPv6 IPv6 route ***
+UA,fedora-archive.ip-connect.info,91.236.251.13,91.236.251.0/24,AS57944,V-node
+UA,fedora-archive.ip-connect.vn.ua,91.236.251.14,91.236.251.0/24,AS57944,V-node
+UA,fedora-archive.ip-connect.vn.ua,2001:67c:440:f620:91:236:251:38,2001:67c:440::/48,AS57944,** IP-Connect IPv6 IPv6 route ***
+UA,fedora-archive.ip-connect.vn.ua,2001:67c:440:401::face:14,2001:67c:440::/48,AS57944,** IP-Connect IPv6 IPv6 route ***
+UA,fedora-archive.ip-connect.vn.ua,2001:67c:440:f620:91:236:251:35,2001:67c:440::/48,AS57944,** IP-Connect IPv6 IPv6 route ***
+UA,fedora-archive.ip-connect.vn.ua,91.236.251.34,91.236.251.0/24,AS57944,V-node
+UA,fedora-archive.ip-connect.vn.ua,91.236.251.35,91.236.251.0/24,AS57944,V-node
+UA,fedora-archive.ip-connect.vn.ua,2001:67c:440:f620:91:236:251:34,2001:67c:440::/48,AS57944,** IP-Connect IPv6 IPv6 route ***
+UA,fedora-archive.ip-connect.vn.ua,91.236.251.38,91.236.251.0/24,AS57944,V-node
+UA,fedora.ip-connect.info,2001:67c:440:401::face:13,2001:67c:440::/48,AS57944,** IP-Connect IPv6 IPv6 route ***
+UA,fedora.ip-connect.info,91.236.251.13,91.236.251.0/24,AS57944,V-node
+UA,fedora.ip-connect.vn.ua,91.236.251.14,91.236.251.0/24,AS57944,V-node
+UA,fedora.ip-connect.vn.ua,2001:67c:440:f620:91:236:251:38,2001:67c:440::/48,AS57944,** IP-Connect IPv6 IPv6 route ***
+UA,fedora.ip-connect.vn.ua,2001:67c:440:401::face:14,2001:67c:440::/48,AS57944,** IP-Connect IPv6 IPv6 route ***
+UA,fedora.ip-connect.vn.ua,2001:67c:440:f620:91:236:251:35,2001:67c:440::/48,AS57944,** IP-Connect IPv6 IPv6 route ***
+UA,fedora.ip-connect.vn.ua,91.236.251.34,91.236.251.0/24,AS57944,V-node
+UA,fedora.ip-connect.vn.ua,91.236.251.35,91.236.251.0/24,AS57944,V-node
+UA,fedora.ip-connect.vn.ua,2001:67c:440:f620:91:236:251:34,2001:67c:440::/48,AS57944,** IP-Connect IPv6 IPv6 route ***
+UA,fedora.ip-connect.vn.ua,91.236.251.38,91.236.251.0/24,AS57944,V-node
+UA,mirror.lanet.network,194.60.69.3,194.60.69.0/24,AS39608,Lanet Network Ltd
+UA,mirror.vsys.host,2a09:2dc0:0:20::1,2a09:2dc0::/29,AS30860,
+UA,mirror.vsys.host,176.119.25.254,176.119.25.0/24,AS30860,
+US,abqix.mm.fcix.net,2605:6800:3:1::60,2605:6800::/32,AS11996,"Lobo Internet Service, Ltd."
+US,abqix.mm.fcix.net,216.243.99.60,216.243.96.0/20,AS11996,"Lobo Internet Service, Ltd."
+US,atl.mirrors.knownhost.com,2600:4c00:400::2,2600:4c00:400::/40,AS63410,PNAP-ACS knownhost-3
+US,atl.mirrors.knownhost.com,67.222.0.49,67.222.0.0/21,AS30496,PNAP-DAL Colo4dallas Route
+US,bungi.mm.fcix.net,65.50.199.136,65.50.199.0/24,AS6596,Wave Broadband
+US,mirror.shastacoe.net,2602:fd01:40:80::51,2602:fd01:40::/48,AS23483,Shasta County Office of Education
+US,mirror.shastacoe.net,66.244.16.51,66.244.16.0/24,AS23483,
+US,centos-stream-distro.1gservers.com,104.251.122.5,104.251.122.0/23,AS14315,1GServers.com
+US,centos-stream-distro.1gservers.com,2605:8340:0:4::2,2605:8340::/32,AS14315,"1GServers, LLC"
+US,cfhcable.mm.fcix.net,2606:3b80:0:1::2,2606:3b80::/32,AS394109,CFH CABLE INC
+US,cfhcable.mm.fcix.net,146.71.75.10,146.71.75.0/24,AS394109,CFH CABLE INC
+US,codingflyboy.mm.fcix.net,23.173.80.16,23.173.80.0/24,AS399242,CodingFlyBoy LLC - West (IPv4)
+US,codingflyboy.mm.fcix.net,2602:809:b000::16,2602:809:b000::/48,AS399242,CodingFlyBoy LLC - West (Fremont 2)
+US,cofractal-ewr.mm.fcix.net,199.255.19.134,199.255.19.0/24,AS26073,dbac7358-d9cb-4fe7-8970-138a03a1263c
+US,cofractal-ewr.mm.fcix.net,2606:7940:52:10::10,2606:7940::/33,AS26073,OBJECT-CFRCTL-d65af47d-98b2-4f7a-a663-11fc8d49a6c0
+US,cofractal-sea.mm.fcix.net,199.255.18.196,199.255.18.0/24,AS26073,.
+US,cofractal-sea.mm.fcix.net,2606:7940:32:22::10,2606:7940::/33,AS26073,OBJECT-CFRCTL-d65af47d-98b2-4f7a-a663-11fc8d49a6c0
+US,coresite-atl.mm.fcix.net,2604:3fc0:2002::76,2604:3fc0:2000::/36,AS2734,Coresite
+US,coresite-atl.mm.fcix.net,66.35.67.76,66.35.67.0/24,AS2734,CORESITE IP BACKBONE
+US,coresite.mm.fcix.net,98.158.155.164,98.158.152.0/22,AS2734,Coresite IP Backbone
+US,coresite.mm.fcix.net,2605:6c00:7000:25::164,2605:6c00:7000::/36,AS2734,Coresite IP Backbone
+US,dfw.mirror.rackspace.com,74.205.112.120,74.205.64.0/18,AS33070,"Rackspace Managed Hosting, 9725 Data point drive, Suite 100, San Antonio, TX 78229"
+US,download-cc-rdu01.fedoraproject.org,8.43.85.72,8.43.84.0/22,AS17314,Proxy route object registered by Flexential for customer
+US,download-cc-rdu01.fedoraproject.org,2620:52:3:1:dead:beef:cafe:fed1,2620:52:3::/48,AS17314,"Red Hat, Inc."
+US,download-ib01.fedoraproject.org,152.2.23.106,152.2.0.0/16,AS36850,Autogenerated route object for transit customer
+US,download-ib01.fedoraproject.org,2606:f640:6000:651::10,2606:f640::/32,AS36850,Autogenerated route object for transit customer
+US,epel.mirror.constant.com,108.61.5.85,108.61.0.0/19,AS20473,Choopa LLC
+US,epel.mirror.constant.com,2001:19f0:1595:1403::1085,2001:19f0:1400::/38,AS20473,Choopa LLC PNJ1
+US,epel.mirror.shastacoe.net,2602:fd01:40:80::51,2602:fd01:40::/48,AS23483,Shasta County Office of Education
+US,epel.mirror.shastacoe.net,66.244.16.51,66.244.16.0/24,AS23483,
+US,fedora-mirror-atl.gigsouth.com,162.255.90.27,162.255.88.0/21,AS2728,"4355 Cobb Parkway, Suite J412"
+US,fedora-mirror-atl.gigsouth.com,2605:7b80:63:5::27,2605:7b80::/32,AS2728,"4355 Cobb Parkway, Suite J412"
+US,fedora.mirror.constant.com,2001:19f0:1595:1403::1084,2001:19f0:1400::/38,AS20473,Choopa LLC PNJ1
+US,fedora.mirror.constant.com,108.61.5.84,108.61.0.0/19,AS20473,Choopa LLC
+US,forksystems.mm.fcix.net,2620:39:6000:103::2,2620:39:6000::/48,AS807,Fork Systems - FORKNET1-V6
+US,forksystems.mm.fcix.net,23.147.64.7,23.147.64.0/24,AS807,Fork Systems - FORKNET1-V4
+US,ftp-chi.osuosl.org,64.50.236.52,64.50.224.0/19,AS4181,TDS Telecom
+US,ftp-chi.osuosl.org,2600:3402:200:227::2,2600:3400::/28,AS4181,TDS Telecom route object
+US,ftpmirror.your.org,163.237.219.7,163.237.0.0/16,AS19255,Redwood Network Design
+US,ftpmirror.your.org,2001:4978:1000:1499::7,2001:4978:1000::/36,AS19255,ORD
+US,ftp-nyc.osuosl.org,2600:3404:200:237::2,2600:3400::/28,AS4181,TDS Telecom route object
+US,ftp-nyc.osuosl.org,64.50.233.100,64.50.224.0/19,AS4181,TDS Telecom
+US,ftp-osl.osuosl.org,140.211.166.134,140.211.0.0/16,AS3701,NERO Network
+US,ftp-osl.osuosl.org,2605:bc80:3010::134,2605:bc80::/32,AS3701,NERO Network
+US,ftp.usf.edu,131.247.253.85,131.247.0.0/16,AS5661,University of South Florida IPv4
+US,ftp.usf.edu,2607:fe50:0:f30b::85,2607:fe50::/32,AS5661,University of South Florida IPv6
+US,gigsouth.mm.fcix.net,162.255.95.138,162.255.88.0/21,AS2728,"4355 Cobb Parkway, Suite J412"
+US,gigsouth.mm.fcix.net,2605:7b80:1:1::2,2605:7b80::/32,AS2728,"4355 Cobb Parkway, Suite J412"
+US,repo.ialab.dsu.edu,138.247.115.248,138.247.0.0/16,AS23122,Dakota State University
+US,iad.mirror.rackspace.com,72.4.120.219,72.4.112.0/20,AS27357,"Rackspace, 5000 Walzem Road, San Antonio, TX 78218"
+US,insect.mm.fcix.net,192.104.234.28,192.104.234.0/24,AS395287,MSC Inc HQ
+US,insect.mm.fcix.net,2620:128:2000::28,2620:128:2000::/40,AS395287,MSC Inc HQ
+US,irltoolkit.mm.fcix.net,205.207.66.207,205.207.66.0/24,AS40080,IRLTK V4 Range A
+US,irltoolkit.mm.fcix.net,2602:fb31::207,2602:fb31::/48,AS40080,"IRLTK V6 Range - Los Angeles, CA"
+US,ix-denver.mm.fcix.net,23.144.216.11,23.144.216.0/24,AS399029,"98 Wadsworth Blvd Unit 127, PMB #5070"
+US,ix-denver.mm.fcix.net,2607:dc0::11,2607:dc0::/32,AS399029,"98 Wadsworth Blvd Unit 127, PMB #5070"
+US,linux.mirrors.es.net,2001:400:201:6::35,2001:400::/32,AS293,Energy Sciences Network
+US,linux.mirrors.es.net,198.129.224.35,198.128.0.0/14,AS292,Energy Sciences Network
+US,linux-mirrors.fnal.gov,131.225.105.75,131.225.0.0/16,AS3152,Fermi National Accelerator Lab
+US,linux-mirrors.fnal.gov,2620:6a:0:105::105:75,2620:6a::/48,AS3152,Fermi National Accelerator Lab
+US,lolhost.mm.fcix.net,198.137.202.17,198.137.202.0/24,AS7247,Javier Henderson
+US,lolhost.mm.fcix.net,2607:7c80:54:3::17,2607:7c80:54::/48,AS7247,Javier Henderson
+US,mirror.math.princeton.edu,128.112.18.21,128.112.0.0/16,AS88,Princeton University
+US,mirror.chpc.utah.edu,204.99.128.20,204.99.128.0/24,AS17055,This is a UofU prefix announced by UEN
+US,mirror.chpc.utah.edu,2001:1948:417:5::20,2001:1948::/32,AS210,This is a UEN owned route
+US,mirror.cogentco.com,66.28.3.135,66.28.0.0/16,AS174,Cogent
+US,mirror.compevo.com,103.25.61.44,103.25.61.0/24,AS12179,PNAP-DAL INAP-DAL
+US,mirror.cs.odu.edu,128.82.4.140,128.82.0.0/21,AS1201,OLDDOMINIONUNIVERSITY
+US,mirror.cs.princeton.edu,128.112.136.56,128.112.0.0/16,AS88,Princeton University
+US,"cs.siue.edu, mirror.cs.siue.edu",146.163.150.1,146.163.128.0/18,AS53695,Southern Illinois University Edwardsville
+US,"cs.siue.edu, mirror.cs.siue.edu",146.163.150.31,146.163.128.0/18,AS53695,Southern Illinois University Edwardsville
+US,mirror.dal.nexril.net,161.129.154.250,161.129.154.0/24,AS13830,Nexril
+US,mirror.dal.nexril.net,2604:fbc0:4::2,2604:fbc0::/36,AS13830,Nexril
+US,mirror.ette.biz,38.105.93.109,38.0.0.0/8,AS174,Cogent
+US,mirror.facebook.net,2620:10d:c091:450::31,2620:10d:c091::/48,AS54115,Meta Platforms Inc (ASH-CORP)
+US,mirror.facebook.net,163.114.132.32,163.114.132.0/24,AS54115,Facebook Corp
+US,mirror.fcix.net,23.152.160.16,23.152.160.0/24,AS7034,PhirePhly Design
+US,mirror.fcix.net,2620:13b:0:1000::16,2620:13b::/48,AS7034,PhirePhly Design
+US,"archive.fmt-2.serverforge.org, mirror.fmt-2.serverforge.org",2602:fb68:180::14,2602:fb68:180::/48,AS23428,ServerForge Fremont1
+US,"archive.fmt-2.serverforge.org, mirror.fmt-2.serverforge.org",198.160.217.14,198.160.217.0/24,AS23428,ServerForge Fremont
+US,"archive.fmt-2.serverforge.org, mirror.fmt-2.serverforge.org",2602:fb68:180::14,2602:fb68:180::/48,AS23428,ServerForge Fremont1
+US,"archive.fmt-2.serverforge.org, mirror.fmt-2.serverforge.org",198.160.217.14,198.160.217.0/24,AS23428,ServerForge Fremont
+US,mirror.grid.uchicago.edu,192.170.231.249,192.170.224.0/19,AS160,The University of Chicago
+US,mirror.grid.uchicago.edu,2605:9a00:10:200b:e443:4bff:fe9e:1f52,2605:9a00:10::/48,AS160,The University of Chicago
+US,"mirror.hoobly.com, centos.mirrors.hoobly.com",209.126.127.252,209.126.96.0/19,AS30083,Proxy registration to prevent harm from ARIN-NONAUTH shutdown
+US,"mirror.hoobly.com, centos.mirrors.hoobly.com",209.126.127.252,209.126.96.0/19,AS30083,Proxy registration to prevent harm from ARIN-NONAUTH shutdown
+US,mirror.its.umich.edu,141.211.76.133,141.211.0.0/16,AS36375,University of Michigan
+US,mirror.lax.adaptivedatanetworks.com,2605:1080:2:f00::70,2605:1080:2::/48,AS23367,"Adaptive Data Networks, LLC"
+US,mirror.lax.adaptivedatanetworks.com,64.250.124.70,64.250.112.0/20,AS23367,"Adaptive Data Networks, LLC"
+US,mirror.lstn.net,69.162.115.247,69.162.64.0/18,AS46475,Limestone Networks Inc.
+US,"archive.mci-1.serverforge.org, mirror.mci-1.serverforge.org",23.147.72.19,23.147.72.0/24,AS23428,ServerForge LLC Central US
+US,"archive.mci-1.serverforge.org, mirror.mci-1.serverforge.org",2602:fb68:140::19,2602:fb68:140::/42,AS23428,ServerForge LLC Central US
+US,"archive.mci-1.serverforge.org, mirror.mci-1.serverforge.org",23.147.72.19,23.147.72.0/24,AS23428,ServerForge LLC Central US
+US,"archive.mci-1.serverforge.org, mirror.mci-1.serverforge.org",2602:fb68:140::19,2602:fb68:140::/42,AS23428,ServerForge LLC Central US
+US,mirror.nodesdirect.com,23.92.92.94,23.92.80.0/20,AS19531,23.92.80.0/20
+US,mirror.pilotfiber.com,216.158.133.254,216.158.128.0/19,AS46450,AS46450
+US,mirror.pilotfiber.com,2606:3580:212:212::2,2606:3580::/32,AS46450,AS46450
+US,mirrors.cat.pdx.edu,131.252.208.20,131.252.0.0/16,AS6366,Proxy route-object for Portland State University
+US,mirror.servaxnet.com,162.255.226.75,162.255.224.0/22,AS46974,"ServaxNet, LLC"
+US,mirror.servaxnet.com,2602:ff1a:501:1000::2,,,
+US,mirror.sfo12.us.leaseweb.net,2605:fe80:2100:b001::5187,2605:fe80::/32,AS7203,"Leaseweb USA, Inc."
+US,mirror.sfo12.us.leaseweb.net,209.58.135.187,209.58.128.0/20,AS7203,MNT-LU-76 route 209.058.128.000/20 AS7203
+US,mirror.siena.edu,199.223.246.113,199.223.240.0/21,AS46379,Proxy registration for Siena College
+US,mirrors.iu13.net,2620:1d5:ffd:1702::213,2620:1d5::/36,AS14773,Lancaster-Lebanon IU13 WAN Consortium
+US,mirrors.iu13.net,206.82.17.213,206.82.17.0/24,AS14773,Lancaster-Lebanon IU13 WAN Consortium
+US,mirrors.lug.mtu.edu,141.219.180.70,141.219.0.0/16,AS62618,Michigan Technological University
+US,mirrors.mit.edu,18.7.29.125,18.7.0.0/16,AS3,Massachusetts Institute of Technology
+US,mirrors.oit.uci.edu,128.200.84.31,128.200.0.0/16,AS299,UCI class B
+US,mirrors.rc.rit.edu,2620:8d:8000:15:1ead:ed:c0:ffe,2620:8d:8000::/48,AS4385,Rochester Institute of Technology
+US,mirrors.rc.rit.edu,129.21.171.72,129.21.0.0/16,AS4385,Rochester Institute of Technology
+US,mirrors.sonic.net,157.131.224.201,157.131.128.0/17,AS46375,Sonic.net
+US,mirrors.sonic.net,2001:5a8:601:4003:157:131:224:201,2001:5a8::/32,AS46375,"Sonic.net, Inc."
+US,mirrors.vcea.wsu.edu,69.166.55.80,69.166.55.0/24,AS10430,WSUNET5
+US,mirrors.wcupa.edu,144.26.0.246,144.26.0.0/16,AS29848,West Chester University (AS29848)
+US,mirrors.wcupa.edu,2605::900:144:26:0:246,2605::/32,AS29848,West Chester University
+US,mirrors.xmission.com,198.60.22.13,198.60.22.0/24,AS6315,XMission
+US,mirrors.xmission.com,2607:fa18:0:3::13,2607:fa18::/32,AS6315,XMission
+US,mirror.team-cymru.com,216.31.2.234,216.31.0.0/18,AS23028,Team Cymru
+US,mirror.team-cymru.com,2604:8800:50:80:216:31:2:234,2604:8800::/32,AS23028,Team Cymru
+US,mirror.tornadovps.com,71.19.148.195,71.19.148.0/24,AS47066,"prgmr.com, Inc"
+US,mirror.tornadovps.com,2605:2700:0:2:216:3eff:fed1:f9cb,2605:2700::/32,AS47066,"prgmr.com, Inc"
+US,mirror.uoregon.edu,184.171.124.180,184.171.0.0/17,AS3582,UONet
+US,mirror.usi.edu,192.206.9.160,192.206.9.0/24,AS19782,University of Southern Indiana
+US,mirror.usi.edu,2602:fc25:101:702::68,2602:fc25::/36,AS46149,University of Southern Indiana
+US,mirror.us.leaseweb.net,2604:9a00:2010:a0b8::5,2604:9a00::/32,AS30633,"Leaseweb USA, Inc."
+US,mirror.us.leaseweb.net,207.244.94.80,207.244.64.0/18,AS30633,"Leaseweb USA, Inc."
+US,mirror.us.mirhosting.net,185.142.32.136,185.142.32.0/24,AS52000,MIRHOSTING-US2-ROUTE
+US,mirror.us.mirhosting.net,2a03:afc0:3:1508::,2a03:afc0:3::/48,AS52000,MIRHOSTING-US4
+US,mirror.web-ster.com,2604:d200::39,2604:d200::/32,AS33470,PO Box 880 SE 2ND AVENUE
+US,mirror.web-ster.com,65.182.224.39,65.182.224.0/19,AS33470,PO Box 880 SE 2ND AVENUE
+US,mnvoip.mm.fcix.net,2602:ffaa:0:d::209,2602:ffaa::/36,AS32621,TCV-ARIN
+US,mnvoip.mm.fcix.net,192.69.77.209,192.69.77.0/24,AS32621,TCV-ARIN
+US,na.edge.kernel.org,2605:f480:58:1:0:1994:3:14,2605:f480::/32,AS7979,SERVERS.COM US01
+US,na.edge.kernel.org,142.0.200.124,142.0.200.0/24,AS7979,SERVERS.COM DFW1
+US,nnenix.mm.fcix.net,2610:48:200:974::47,2610:48::/32,AS557,University of Maine System
+US,nnenix.mm.fcix.net,209.222.200.200,209.222.192.0/19,AS557,University of Maine System
+US,nocix.mm.fcix.net,69.30.208.233,69.30.192.0/18,AS32097,WII-69-30
+US,nocix.mm.fcix.net,2001:4858:cc:1::46,2001:4858::/32,AS32097,WII-2001-4858
+US,ohioix.mm.fcix.net,2602:fd28:50::b,2602:fd28::/36,AS62866,For OhioIX-hosted content.
+US,ohioix.mm.fcix.net,134.195.207.11,134.195.207.0/24,AS62866,For OhioIX-hosted content.
+US,opencolo.mm.fcix.net,2607:f358:1a:15::50,2607:f358:1a::/48,AS18779,Energy Group Network
+US,opencolo.mm.fcix.net,50.117.120.66,50.117.120.0/24,AS18779,"OpenColo LOA'ed AS18779 3223 Kenneth St. Santa Clara, CA 95054"
+US,ord.mirror.rackspace.com,166.78.229.131,166.78.192.0/18,AS19994,Rackspace
+US,packages.oit.ncsu.edu,152.7.106.27,152.7.0.0/16,AS11442,Proxy-registered route object
+US,paducahix.mm.fcix.net,23.189.48.83,23.189.48.0/24,AS399788,Quad State Internet LLC
+US,paducahix.mm.fcix.net,2602:802:b040:fd31::2,2602:802:b040::/44,AS23248,Paducah Power System
+US,plug-mirror.rcac.purdue.edu,128.211.151.251,128.211.128.0/19,AS397511,Purdue University
+US,plug-mirror.rcac.purdue.edu,2001:18e8:804:35::3:1337,2001:18e8:800::/44,AS17,Purdue University
+US,pubmirror1.math.uh.edu,129.7.128.189,129.7.128.0/20,AS7276,"UH-IT / CTS Houston, TX 77204-1010"
+US,pubmirror2.math.uh.edu,129.7.128.190,129.7.128.0/20,AS7276,"UH-IT / CTS Houston, TX 77204-1010"
+US,pubmirror3.math.uh.edu,129.7.128.191,129.7.128.0/20,AS7276,"UH-IT / CTS Houston, TX 77204-1010"
+US,reflector.westga.edu,160.10.5.37,160.10.0.0/16,AS3479,Route Record for PeachNet - AS3479
+US,ryamer.mm.fcix.net,2602:fb95:103:1::2,2602:fb95:100::/40,AS400587,Ryamer Chicago
+US,ryamer.mm.fcix.net,121.127.34.66,121.127.34.0/24,AS400587,Ryamer
+US,sjc.mirror.rackspace.com,159.135.194.176,159.135.192.0/19,AS12200,SJC IPs
+US,solidrock.mm.fcix.net,23.191.104.35,23.191.104.0/24,AS401357,2791 N 3480 W
+US,solidrock.mm.fcix.net,2602:f7e9:1:1::b,2602:f7e9::/40,AS401357,2791 N 3480 W
+US,southfront.mm.fcix.net,147.160.170.17,147.160.170.0/24,AS397326,South Front Networks
+US,southfront.mm.fcix.net,2620:13e:3008:16::2,2620:13e:3000::/40,AS397326,South Front Networks
+US,"us.mirrors.cicku.me, us.dyi.ng",172.65.90.22,172.65.80.0/20,AS13335,"Cloudflare, Inc."
+US,"us.mirrors.cicku.me, us.dyi.ng",2606:4700:78::90:0:141,2606:4700:70::/44,AS13335,"Cloudflare, Inc."
+US,"us.mirrors.cicku.me, us.dyi.ng",172.65.90.23,172.65.80.0/20,AS13335,"Cloudflare, Inc."
+US,"us.mirrors.cicku.me, us.dyi.ng",2606:4700:78::90:0:143,2606:4700:70::/44,AS13335,"Cloudflare, Inc."
+US,"us.mirrors.cicku.me, us.dyi.ng",2606:4700:78::90:0:142,2606:4700:70::/44,AS13335,"Cloudflare, Inc."
+US,"us.mirrors.cicku.me, us.dyi.ng",2606:4700:78::90:0:140,2606:4700:70::/44,AS13335,"Cloudflare, Inc."
+US,"us.mirrors.cicku.me, us.dyi.ng",172.65.90.20,172.65.80.0/20,AS13335,"Cloudflare, Inc."
+US,"us.mirrors.cicku.me, us.dyi.ng",172.65.90.21,172.65.80.0/20,AS13335,"Cloudflare, Inc."
+US,"us.mirrors.cicku.me, us.dyi.ng",2606:4700:90:0:1e9c:6198:567e:46e9,2606:4700:90::/44,AS13335,"Cloudflare, Inc."
+US,"us.mirrors.cicku.me, us.dyi.ng",172.65.184.192,172.65.176.0/20,AS13335,"Cloudflare, Inc."
+US,volico.mm.fcix.net,208.68.237.5,208.68.237.0/24,AS33724,Proxy-registered route object
+US,"www.gtlib.gatech.edu, rsync.gtlib.gatech.edu",128.61.111.9,128.61.64.0/18,AS2637,Georgia Tech
+US,"www.gtlib.gatech.edu, rsync.gtlib.gatech.edu",128.61.111.7,128.61.64.0/18,AS2637,Georgia Tech
+US,"www.gtlib.gatech.edu, rsync.gtlib.gatech.edu",128.61.111.11,128.61.64.0/18,AS2637,Georgia Tech
+US,"www.gtlib.gatech.edu, rsync.gtlib.gatech.edu",128.61.111.9,128.61.64.0/18,AS2637,Georgia Tech
+US,"www.gtlib.gatech.edu, rsync.gtlib.gatech.edu",128.61.111.7,128.61.64.0/18,AS2637,Georgia Tech
+US,ziply.mm.fcix.net,2605:21c0:1000:4a::53,2605:21c0::/32,AS20055,� wholesail networks owned block
+US,ziply.mm.fcix.net,50.47.0.53,50.46.0.0/15,AS20055,MNT-NFL-79 route 050.046.000.000/15 AS20055
+VN,mirror.viettelcloud.vn,116.103.227.168,116.103.227.0/24,AS24086,Proxy-registered route object
+ZA,mirror.za.abantu.cloud,102.222.156.242,102.222.156.0/24,AS37739,ABANTU
