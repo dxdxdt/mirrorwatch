@@ -1,0 +1,13 @@
+[Unit]
+Description=metahealth watcher
+After=network-online.target postgresql.service
+Requires=network-online.target
+
+[Service]
+User=mw
+ExecStart=/bin/python -m metahealth /etc/metahealth/%i
+Restart=on-failure
+RestartSec=10s
+
+[Install]
+WantedBy=multi-user.target

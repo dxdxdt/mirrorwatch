@@ -1,3 +1,6 @@
 requests
 urllib3
 # py-radix
+
+json5 # Alpine only ships this
+psycopg2

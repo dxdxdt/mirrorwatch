@@ -10,6 +10,13 @@
 			"request": "launch",
 			"module": "mirrorwatch",
 			"args": [ ">", "result.csv" ]
+		},
+		{
+			"name": "pydbg module: metahealth",
+			"type": "debugpy",
+			"request": "launch",
+			"module": "metahealth",
+			"args": [ "metahealth.jsonc" ]
 		}
 	]
 }

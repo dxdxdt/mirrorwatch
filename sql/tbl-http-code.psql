@@ -1,0 +1,8 @@
+CREATE TABLE "url-http-code" (
+	"rid" BIGSERIAL NOT NULL PRIMARY KEY,
+	"code" SMALLINT NOT NULL,
+	"len" INT NOT NULL,
+	"runtime_us" INTEGER,
+
+	"ts" TIMESTAMP NOT NULL DEFAULT(timezone('utc', now()))
+);
