@@ -1,33 +1,32 @@
-from datetime import timedelta
-import random
 import sys
-import time
-
-from metahealth import *
+import random
+import traceback
 
 import json5
-import psycopg2
 
-with open(sys.argv[1]) as f:
-	OPTS = json5.load(f)
-INTERVAL = float(OPTS.get('interval', 60.0))
+import metahealth
 
 random.seed()
 
-with psycopg2.connect(**OPTS['db']) as db:
-	while True:
-		start = time.monotonic_ns()
-		code, len = pull_url(OPTS['url'])
-		end = time.monotonic_ns()
-		runtime_us = (end - start) // 1000
+succ = 0
+fail = 0
 
-		_, ts = do_insert(db, code, len, runtime_us)
-		bfr = ts - timedelta(days = 360)
-		do_trunc(db, bfr)
-		db.commit()
+# TODO start delay w/ jitter
 
-		jitter = 1.0 - (random.random() * 2.0)
-		# sys.stderr.write('%.3f\n' % (jitter, ))
-		delay = INTERVAL + jitter
-		if delay > 0.0:
-			time.sleep(delay)
+for path in sys.argv[1:]:
+	try:
+		with open(path) as f:
+			conf = json5.load(f)
+			f.close()
+			metahealth.do_test(conf)
+			succ += 1
+	except Exception as e:
+		traceback.print_exception(e)
+		fail += 1
+
+if fail > 0:
+	if succ > 0: sys.exit(3)
+	else: sys.exit(1)
+else:
+	if succ == 0: sys.exit(2)
+	else: sys.exit(0)

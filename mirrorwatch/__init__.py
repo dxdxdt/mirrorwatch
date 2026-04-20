@@ -190,7 +190,7 @@ class WhoisQueryConnection (ContextDecorator):
 				v = p[1]
 				match k:
 					case 'route' | 'route6': out.route = v
-					case 'origin': out.origin = v
+					case 'origin': out.origin = v.upper()
 					case 'descr': out.descr = out.descr or v
 		"""
 		Using RIPE mode here instead of IRRd mode because the answer header

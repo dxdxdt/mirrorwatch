@@ -1,0 +1,7 @@
+CREATE TABLE "runs" (
+	"rid"		BIGSERIAL	NOT NULL PRIMARY KEY,
+	"metalink"	VARCHAR(1024)	NOT NULL,
+	"baseurl"	VARCHAR(1024)	NOT NULL,
+	"run_start"	TIMESTAMP	NOT NULL,
+	"run_end"	TIMESTAMP	NOT NULL
+);

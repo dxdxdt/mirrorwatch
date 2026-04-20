@@ -1,0 +1,20 @@
+{
+	// "user-agent": "libdnf (Fedora {rnd}; server; Linux.x86_64)",
+	// baseurl returned from metalink should match against the url (manually)
+	"metalink": "https://mirrors.fedoraproject.org/metalink?repo=fedora-rawhide&arch=x86_64",
+	// "baseurl": "https://{HOST}/{OS}/releases/{RELEASE}/Everything/{ARCH}/os/repodata/",
+
+	// this dict gets fed directly to the DB connector
+	"db": {
+		"database": "mw"
+	},
+
+	// "intervals": {
+	// 	"bgp": 86400 // 1 day
+	// },
+
+	// "retain": {
+	// 	"bgp": 31104000, // 360 days
+	// 	"run": 31104000 // 360 days
+	// },
+}

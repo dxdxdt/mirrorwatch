@@ -1,0 +1,11 @@
+CREATE TABLE "files" (
+	"rid"		BIGSERIAL NOT NULL PRIMARY KEY,
+	"run"		BIGSERIAL REFERENCES "runs"("rid") ON DELETE CASCADE,
+	"name"		VARCHAR(1024) NOT NULL,
+	"resolved"	INET,
+	"status"	SMALLINT,
+	"content_len"	BIGINT,
+	"hash"		CHAR(255), -- sha256 + sha512 + 1 space
+	"transfer_time"	BIGINT,
+	"transfer_size"	BIGINT
+);

@@ -1,0 +1,7 @@
+CREATE TABLE "filemeta" (
+	"rid"		BIGSERIAL NOT NULL PRIMARY KEY,
+	"run"		BIGSERIAL REFERENCES "runs"("rid") ON DELETE CASCADE,
+	"file"		VARCHAR(1024),
+	"size"		BIGINT,
+	"hash"		VARCHAR(1024)
+);

@@ -1,0 +1,8 @@
+CREATE TABLE "bgp" (
+	"rid"		BIGSERIAL NOT NULL PRIMARY KEY,
+	"addr"		INET NOT NULL,
+	"route"		CIDR NOT NULL,
+	"asn"		INT NOT NULL,
+	"desc"		VARCHAR(255),
+	"ts"		TIMESTAMP NOT NULL
+);

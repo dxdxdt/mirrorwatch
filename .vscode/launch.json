@@ -16,7 +16,7 @@
 			"type": "debugpy",
 			"request": "launch",
 			"module": "metahealth",
-			"args": [ "metahealth.jsonc" ]
+			"args": [ "metahealth.jsonc" ],
 		}
 	]
 }
